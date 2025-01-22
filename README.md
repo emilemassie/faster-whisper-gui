@@ -6,7 +6,7 @@ Faster Whisper GUI is a Python-based graphical user interface for the [faster-wh
 <div align="center">
   ![image](https://github.com/user-attachments/assets/3ae184eb-2b35-4a40-b5f7-d26b4604f39d)
 
-  <img width="498" alt="image" src="https://github.com/user-attachments/assets/3ae184eb-2b35-4a40-b5f7-d26b4604f39d" />
+  <img alt="image" src="https://github.com/user-attachments/assets/3ae184eb-2b35-4a40-b5f7-d26b4604f39d" />
 
 </div>
 
