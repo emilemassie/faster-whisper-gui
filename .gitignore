@@ -1,0 +1,13 @@
+dist
+nv_bin
+*.spec
+audio_files
+build
+cudnn_adv64_9.dll 
+cudnn_cnn64_9.dll
+cudnn_engines_precompiled64_9.dll 
+cudnn_engines_runtime_compiled64_9.dll 
+cudnn_graph64_9.dll 
+cudnn_heuristic64_9.dll
+cudnn_ops64_9.dll
+cudnn64_9.dll
