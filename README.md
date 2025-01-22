@@ -48,7 +48,7 @@ Click the "Transcript" button to start the transcription process. You can stop i
    ```
 
 ## Requirements
-- Python 3.8+
+- Python 3.9+
 - Dependencies listed in `requirements.txt`
 - Optional: GPU with CUDA support for GPU acceleration
 
