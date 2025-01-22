@@ -2,7 +2,9 @@
 
 Faster Whisper GUI is a Python-based graphical user interface for the [faster-whisper](https://github.com/guillaumekln/faster-whisper) library, providing an easy way to generate transcripts from audio files.
 
-<img width="494" alt="image" src="https://github.com/user-attachments/assets/8d499f19-74f5-4cfc-964f-7077b428f0e5" />
+<div align="center">
+  <img width="494" alt="image" src="https://github.com/user-attachments/assets/8d499f19-74f5-4cfc-964f-7077b428f0e5" />
+</div>
 
 ## Features
 - Simple and intuitive interface.
