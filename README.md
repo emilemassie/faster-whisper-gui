@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="494" alt="image" src="https://github.com/user-attachments/assets/a0362ea8-dd7e-4255-a15d-4ca81f001bd5" />
+  <img width="1.5em" alt="image" src="https://github.com/user-attachments/assets/a0362ea8-dd7e-4255-a15d-4ca81f001bd5" />
 </div>
 
 # Faster Whisper GUI
