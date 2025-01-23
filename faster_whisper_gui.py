@@ -111,7 +111,7 @@ class FastWhisperGui(QtWidgets.QWidget):
 
         self.thread = QThread()
 
-        self.setWindowTitle('Fast Whisper')
+        self.setWindowTitle('Faster Whisper GUI')
         self.update_log('Fast Whisper initialized', 'green')
 
         self.convert_button.setEnabled(False)
